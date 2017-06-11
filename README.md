@@ -16,9 +16,11 @@ https://www.rstudio.com/resources/cheatsheets/
 
 ### Packages for the first steps
 (It's very easy to install new packages -> Tools -> Install Packages -> write the name of the package you want to install)
-* dplyr for merging data and much more (You will find above a useful CheatSheet for dplyr)
+* dplyr - for merging data and much more - here you find the CheatSheet https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+* tidyr - for data wrangling
 * rmarkdown for using markdown 
-* 
+* sqldf - Perform SQL Selects on R Data Frames
+* lubridate - Make Dealing with Dates a Little Easier
 
 ### First steps wih RStudio
 1) Click on File -> New File -> R Markdown
