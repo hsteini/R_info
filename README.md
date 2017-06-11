@@ -50,7 +50,7 @@ x
 
 ```
 
-6) Attention! Below the x are three ``` 
+6) Attention! Below the last x are three ``` 
 7) In a Rmarkdown file the code is always between \``` {r}  code code code  \```
 8) The documentation you write with RMarkdown - look at the CheatSheets for the simple syntax.
 9) Now you can select all the code and click on the Knit button
