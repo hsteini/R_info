@@ -1,0 +1,18 @@
+---
+title: "new"
+author: "Helmut Steinbichler"
+date: "11 6 2017"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+### Documentation for the calculations
+Assign x the values 3 and 5 and print x afterwards
+
+```{r}
+x <- 3 + 5
+x
+```
+
