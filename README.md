@@ -10,9 +10,18 @@ https://www.datacamp.com/
 
 ### Recommended Tutorials
 http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf
+ftp://cran.r-project.org/pub/R/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
+http://vita.had.co.nz/papers/tidy-data.pdf
 
-### CheatSheets
+### Recommended blogs
+https://www.r-bloggers.com/
+
+### R CheatSheets
 https://www.rstudio.com/resources/cheatsheets/
+
+### Recommended books
+https://www.nostarch.com/artofr.htm
+http://www.cookbook-r.com/
 
 ### Packages for the first steps
 (It's very easy to install new packages -> Tools -> Install Packages -> write the name of the package you want to install)
