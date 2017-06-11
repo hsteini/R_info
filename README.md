@@ -49,6 +49,8 @@ x <- 3 + 5
 x
 ```
 
+
+```
 6) Now you can select all the code and click on the Knit button
 7) Voila - now you should get a pdf or docx or html file
 8) If you click on the arrow on the left side of the Knit button you can decide, what file format you want to generate.
