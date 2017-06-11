@@ -48,6 +48,7 @@ Assign x the values 3 and 5 and print x afterwards
 x <- 3 + 5
 x
 ```
+```
 
 
 ```
