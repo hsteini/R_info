@@ -22,7 +22,7 @@ https://www.rstudio.com/resources/cheatsheets/
 
 ---
 title: "new"
-author: "Helmut Steinbichler"
+author: "First Name Last Name"
 date: "11 6 2017"
 output:
   word_document: default
@@ -40,4 +40,5 @@ x
 6) Now you can select all the code cand click on the Knit button
 7) Voila - now you should get a pdf or docx o html file
 8) If you lick on the arrow on the left of the Knit button you can decide, what file format you want to generate.
+9) If you have any further questions feel free to contact me.
 
