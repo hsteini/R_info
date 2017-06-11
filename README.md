@@ -16,4 +16,25 @@ https://www.rstudio.com/resources/cheatsheets/
 2) Give it a Title
 3) File -> Save As -> give it a name
 4) You find the path to your working directory in RStudio -> Preferences -> General -> Default working directory (when not in a project)
-5) Change the code in your new R Markdown file like you will see it here https://github.com/hsteini/R_info/blob/master/test.Rmd
+5) Change the code in your new R Markdown file like this
+
+```
+
+---
+title: "new"
+author: "Helmut Steinbichler"
+date: "11 6 2017"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+### Documentation for the calculations
+Assign x the values 3 and 5 and print x afterwards
+
+```{r}
+x <- 3 + 5
+x
+```
+```
