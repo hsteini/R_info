@@ -48,7 +48,8 @@ Assign x the values 3 and 5 and print x afterwards
 x <- 3 + 5
 x
 ```
-6) Attention! Below the x are three ``` - 
+6) Attention! Below the x are three ``` !
+7) In a Rmarkdown file the code is alwys between ```{r}  code code code ```
 6) Now you can select all the code and click on the Knit button
 7) Voila - now you should get a pdf or docx or html file
 8) If you click on the arrow on the left side of the Knit button you can decide, what file format you want to generate.
