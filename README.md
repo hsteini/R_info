@@ -24,13 +24,9 @@ https://www.rstudio.com/resources/cheatsheets/
 
 ### First steps wih RStudio
 1) Click on File -> New File -> R Markdown
-
-2) Give it a Title
-
+2) Give it a title
 3) File -> Save As -> give it a name
-
 4) You find the path to your working directory in RStudio -> Preferences -> General -> Default working directory (when not in a project)
-
 5) Change the code in your new R Markdown file like this
 
 ```
@@ -56,7 +52,7 @@ x
 
 6) Attention! Below the x are three ``` 
 7) In a Rmarkdown file the code is always between \``` {r}  code code code  \```
-8) Your documentation you write with RMarkdown - look at the CheatSheets for the simple syntax.
+8) The documentation you write with RMarkdown - look at the CheatSheets for the simple syntax.
 9) Now you can select all the code and click on the Knit button
 10) Voila - now you should get a pdf or docx or html file
 11) If you click on the arrow on the left side of the Knit button you can decide, what file format you want to generate.
