@@ -47,9 +47,9 @@ Assign x the values 3 and 5 and print x afterwards
 ```{r}
 x <- 3 + 5
 x
-
-
 ```
+```
+
 test test
 ...
 ```
