@@ -37,8 +37,8 @@ Assign x the values 3 and 5 and print x afterwards
 x <- 3 + 5
 x
 ```
-6) Now you can select all the code cand click on the Knit button
+6) Now you can select all the code and click on the Knit button
 7) Voila - now you should get a pdf or docx o html file
-8) If you lick on the arrow on the left of the Knit button you can decide, what file format you want to generate.
+8) If you click on the arrow on the left side of the Knit button you can decide, what file format you want to generate.
 9) If you have any further questions feel free to contact me.
 
