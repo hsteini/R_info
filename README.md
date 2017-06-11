@@ -47,7 +47,7 @@ Assign x the values 3 and 5 and print x afterwards
 ```{r}
 x <- 3 + 5
 x
-```
+\```
 6) Attention! Below the x are three ``` !
 7) In a Rmarkdown file the code is always between \``` {r}  code code code  \```
 6) Now you can select all the code and click on the Knit button
