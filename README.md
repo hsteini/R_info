@@ -54,7 +54,7 @@ x
 7) In a Rmarkdown file the code is always between \``` {r}  code code code  \```
 8) The documentation you write with RMarkdown - look at the CheatSheets for the simple syntax.
 9) Now you can select all the code and click on the Knit button
-10) Voila - now you should get a pdf or docx or html file
+10) Voila - now you should get a pdf or docx or html file - like here https://github.com/hsteini/R_info - test.pdf or test.docx or test.html
 11) If you click on the arrow on the left side of the Knit button you can decide, what file format you want to generate.
 12) If you have any further questions feel free to contact me.
 
