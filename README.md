@@ -2,7 +2,10 @@
 Tips and tricks for using R
 
 ### Recommended Online Trainings
+Coursera
 https://www.coursera.org/specializations/jhu-data-science
+
+DataCamp
 https://www.datacamp.com/
 
 ### Recommended Tutorials
@@ -10,6 +13,12 @@ http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf
 
 ### CheatSheets
 https://www.rstudio.com/resources/cheatsheets/
+
+### Packages for the first steps
+(It's very easy to install new packages -> Tools -> Install Packages -> write the name of the package you want to install)
+* dplyr for merging data and much more (You will find above a useful CheatSheet for dplyr)
+* rmarkdown for using markdown 
+* 
 
 ### First steps wih RStudio
 1) Click on File -> New File -> R Markdown
