@@ -23,10 +23,14 @@ https://www.rstudio.com/resources/cheatsheets/
 * lubridate - Make Dealing with Dates a Little Easier
 
 ### First steps wih RStudio
-*) Click on File -> New File -> R Markdown
-*) Give it a Title
-*) File -> Save As -> give it a name
-*) You find the path to your working directory in RStudio -> Preferences -> General -> Default working directory (when not in a project)
+1) Click on File -> New File -> R Markdown
+
+2) Give it a Title
+
+3) File -> Save As -> give it a name
+
+4) You find the path to your working directory in RStudio -> Preferences -> General -> Default working directory (when not in a project)
+
 5) Change the code in your new R Markdown file like this
 
 ```
