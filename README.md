@@ -10,7 +10,9 @@ https://www.datacamp.com/
 
 ### Recommended Tutorials
 http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf
+
 ftp://cran.r-project.org/pub/R/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
+
 http://vita.had.co.nz/papers/tidy-data.pdf
 
 ### Recommended blogs
