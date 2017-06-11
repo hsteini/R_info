@@ -32,11 +32,11 @@ http://www.cookbook-r.com/
 (It's very easy to install new packages -> Tools -> Install Packages -> write the name of the package you want to install)
 * dplyr - for merging data and much more - here you find the CheatSheet https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 * tidyr - for data wrangling
-* rmarkdown for using markdown 
+* rmarkdown - for using markdown 
 * sqldf - Perform SQL Selects on R Data Frames
 * lubridate - Make Dealing with Dates a Little Easier
 
-### First steps wih RStudio
+### First steps with RStudio
 1) Click on File -> New File -> R Markdown
 2) Give it a title
 3) File -> Save As -> give it a name
@@ -70,5 +70,5 @@ x
 9) Now you can select all the code and click on the Knit button
 10) Voila - now you should get a pdf or docx or html file - like here https://github.com/hsteini/R_info - test.pdf or test.docx or test.html
 11) If you click on the arrow on the left side of the Knit button you can decide, what file format you want to generate.
-12) If you have any further questions feel free to contact me.
+12) If you have any further questions feel free to contact me!
 
