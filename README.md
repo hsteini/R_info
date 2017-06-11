@@ -18,6 +18,9 @@ http://vita.had.co.nz/papers/tidy-data.pdf
 ### Recommended blogs
 https://www.r-bloggers.com/
 
+### Recommended R experts
+https://stackoverflow.com/questions/tagged/r
+
 ### R CheatSheets
 https://www.rstudio.com/resources/cheatsheets/
 
